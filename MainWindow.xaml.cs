@@ -47,7 +47,7 @@ namespace mysqltesting
                     this.Hide();
                     new Window1().Show();
                 }
-                else MessageBox.Show("Invalid Login");
+                else MessageBox.Show("Invalid Login coming");
 
             }catch(Exception ex)
             {
