@@ -43,7 +43,7 @@ namespace mysqltesting
 
                 if (data.Read())
                 {
-                    MessageBox.Show("Login is corrrectly");
+                    MessageBox.Show("Login is corrrectly plz");
                     this.Hide();
                     new Window1().Show();
                 }
